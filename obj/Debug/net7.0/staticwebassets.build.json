@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "n5Cbg1UbUzQ1MuNBFd4aXBmdvHnPudKa2NMahndM9bo=",
+  "Source": "SimpleApiRedis",
+  "BasePath": "_content/SimpleApiRedis",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
